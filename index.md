@@ -2,9 +2,8 @@
 
 ## Summary of [1][1]
 
-For optimal health apart from diet, it is also important to remain physically active. [euro.who.int][2]
 
-For adults, a healthy diet includes the following, [who - healthy diet][1],
+For adults, a healthy diet includes the following, [(who - healthy diet)][1],
 
 ### Fruits vegetables
 
@@ -53,6 +52,8 @@ Source - [here][1]
 ---
 
 ## Summary of [2][2],[3][3]
+
+For optimal health apart from diet, it is also important to remain physically active. [(euro.who.int)][2]
 
 For well balanced diet, choose variety of food throughout the week. According to [eatwell guide][2], there are five groups in which we can divide the food,
 
